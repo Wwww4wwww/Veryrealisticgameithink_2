@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec18485855dcae942a751b9fb56547e9
+timeCreated: 1486215481
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82240
+  packageName: Oxar Light Freighter
+  packageVersion: 1.0
+  assetPath: Assets/Oxar Freighter/Prefabs/Oxar Freighter.prefab
+  uploadId: 164286
